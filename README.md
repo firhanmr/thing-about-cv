@@ -1,1 +1,1 @@
-# Just Some Project About CV
+# Just some project about CV
